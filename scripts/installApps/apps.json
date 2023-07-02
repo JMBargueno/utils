@@ -1,1 +1,27 @@
-{ "dev": ["vscode", "postman"], "gaming": ["steam", "epicgameslauncher"], "utils":["7zip", "vlc", "discord"] }
+{
+  "dev":[
+    "vscode",
+    "postman",
+    "nvm",
+    "openjdk",
+    "firacode",
+    "git",
+    "filezilla"
+  ],
+  "gaming":[
+    "steam",
+    "epicgameslauncher"
+  ],
+  "utils":[
+    "7zip",
+    "vlc",
+    "discord",
+    "googlechrome",
+    "qbittorrent",
+    "adobereader",
+    "sharex"
+  ],
+  "pc_analysis":[
+    "crystaldiskinfo"
+  ]
+}
