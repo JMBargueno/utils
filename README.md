@@ -4,6 +4,8 @@
 
 ### Install Apps
 
+You can fork the repo, edit the DownloadString of the script and edit the apps.json for custom installs.
+
 This scripts install all necesary apps for a geek.
 
 ```shell
